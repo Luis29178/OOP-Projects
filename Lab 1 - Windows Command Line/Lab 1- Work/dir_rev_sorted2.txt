@@ -1,0 +1,14 @@
+11/18/2010  12:08 PM           163,840 7z.exe
+10/26/2021  11:08 PM    <DIR>          ..
+10/26/2021  11:08 PM    <DIR>          .
+10/26/2021  11:08 PM                 0 dir_rev_sorted2.txt
+10/26/2021  11:05 PM               443 dir_rev_sorted1.txt
+10/26/2021  10:54 PM               443 dir_out.txt
+10/26/2021  10:21 PM         1,110,476 7z920.exe
+ Volume Serial Number is D8FE-1E3E
+ Volume in drive C has no label.
+ Directory of C:\Users\Luis\mydir
+               5 File(s)      1,275,202 bytes
+               2 Dir(s)  187,562,442,752 bytes free
+
+
